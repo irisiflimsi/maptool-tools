@@ -5,6 +5,6 @@ Tools to support Maptool
 
 Take a csv file and create tokens from it, including images that are available. Usage:
 
-``createTokens-py csvFile /path/to/images``
+``createTokens.py csvFile /path/to/images``
 
 Also read help and the script itself.
